@@ -1,4 +1,2 @@
-# testrepo
-# Editing the file
+# IBM Data Science Course
 
-Its a markdown file in this repository.
